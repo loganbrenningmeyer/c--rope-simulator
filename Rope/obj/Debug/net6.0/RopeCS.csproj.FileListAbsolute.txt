@@ -1,0 +1,15 @@
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\bin\Debug\net6.0\RopeCS.exe
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\bin\Debug\net6.0\RopeCS.deps.json
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\bin\Debug\net6.0\RopeCS.runtimeconfig.json
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\bin\Debug\net6.0\RopeCS.dll
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\bin\Debug\net6.0\RopeCS.pdb
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.csproj.AssemblyReference.cache
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.AssemblyInfoInputs.cache
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.AssemblyInfo.cs
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.dll
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\refint\RopeCS.dll
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.pdb
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\RopeCS.genruntimeconfig.cache
+C:\Users\logan\Documents\GitHub\rope-simulator\Rope\obj\Debug\net6.0\ref\RopeCS.dll
